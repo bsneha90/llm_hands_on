@@ -9,10 +9,10 @@ Open the file and drag Ollama to Applications.
 ### Test Installation
 We will try downloading and interacting with the llama3 model by Meta.
 ```
-ollama run llama3
+ollama run llama3.2
 ```
 
-**Note:** Llama 3 is a versatile model for natural language processing (NLP) tasks, like text generation, summarization, and machine translation.
+**Note:** Llama is a versatile model for natural language processing (NLP) tasks, like text generation, summarization, and machine translation.
 
 ## Basic Setup
 
